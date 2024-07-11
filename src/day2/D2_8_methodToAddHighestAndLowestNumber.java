@@ -20,7 +20,7 @@ public class D2_8_methodToAddHighestAndLowestNumber {
 		System.out.println("sumOfLowestAndHighest:"+sumOfLowestAndHighest);	
 		
 	}
-
+//
 	public static void main(String[] args) {
 		//have some numbers in an array		
 		int[] arr= {300,2,8,1,100,25,3};		
